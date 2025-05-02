@@ -1,0 +1,8 @@
+{
+  "idle_timeout_minutes": 15,
+  "warning_seconds": 30,
+  "play_warning_sound": false,
+  "tv_ip": "auto",
+  "auto_discovery_timeout": 5,
+  "client_key_file": "client_key.json"
+}
